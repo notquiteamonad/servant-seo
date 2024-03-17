@@ -1,7 +1,9 @@
+.direnv/
 .stack-work/
 dist-newstyle
 *~
 *log
 .ghc*
 *.lock
+!flake.lock
 dist
